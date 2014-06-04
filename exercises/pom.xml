@@ -6,7 +6,7 @@
   <parent>
     <groupId>com.googlecode.princeton-java-introduction</groupId>
     <artifactId>introcs</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
   </parent>
 
   <artifactId>exercises</artifactId>
