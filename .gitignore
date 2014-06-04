@@ -1,7 +1,11 @@
 *.DS_Store
-target/*
+*/target/*
 *~
-/target
+*.swp
+*/.classpath
+*/.project
+*/.settings
 .classpath
 .project
 .settings
+
