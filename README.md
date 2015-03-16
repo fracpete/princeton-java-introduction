@@ -9,8 +9,8 @@ You can use the following dependency in your `pom.xml` to include the standard I
 
 ```xml
 <dependency>
-  <groupId>com.googlecode.princeton-java-introduction</groupId>
-  <artifactId>stdlib</artifactId>
-  <version>1.0.1</version>
+  <groupId>com.github.fracpete</groupId>
+  <artifactId>princeton-java-stdlib</artifactId>
+  <version>1.0.2</version>
 </dependency>
 ```
