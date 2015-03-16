@@ -3,8 +3,8 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.googlecode.princeton-java-introduction</groupId>
-  <artifactId>introcs</artifactId>
+  <groupId>com.github.fracpete</groupId>
+  <artifactId>princeton-java-introcs</artifactId>
   <version>1.0.2-SNAPSHOT</version>
   <packaging>pom</packaging>
 
@@ -31,9 +31,9 @@
   </parent>
 
   <scm>
-    <connection>scm:git:https://code.google.com/p/princeton-java-introduction/</connection>
-    <developerConnection>scm:git:https://code.google.com/p/princeton-java-introduction/</developerConnection>
-    <url>https://code.google.com/p/princeton-java-introduction/</url>
+    <connection>scm:git:https://github.com/fracpete/princeton-java-introduction</connection>
+    <developerConnection>scm:git:https://github.com/fracpete/princeton-java-introduction</developerConnection>
+    <url>https://github.com/fracpete/princeton-java-introduction</url>
     <tag>HEAD</tag>
   </scm>
 
