@@ -4,12 +4,12 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.googlecode.princeton-java-introduction</groupId>
-    <artifactId>introcs</artifactId>
+    <groupId>com.github.fracpete</groupId>
+    <artifactId>princeton-java-introduction</artifactId>
     <version>1.0.2-SNAPSHOT</version>
   </parent>
 
-  <artifactId>examples</artifactId>
+  <artifactId>princeton-java-examples</artifactId>
   <packaging>jar</packaging>
 
   <name>Introduction to Programming in Java - Examples</name>
@@ -58,8 +58,8 @@
 
   <dependencies>
     <dependency>
-      <groupId>com.googlecode.princeton-java-introduction</groupId>
-      <artifactId>stdlib</artifactId>
+      <groupId>com.github.fracpete</groupId>
+      <artifactId>princeton-java-stdlib</artifactId>
       <version>${project.version}</version>
     </dependency>
   </dependencies>
