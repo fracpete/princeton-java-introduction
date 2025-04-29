@@ -4,12 +4,14 @@ Contains the [mavenized](http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22intro
 
 http://introcs.cs.princeton.edu/java/
 
+## Maven
+
 You can use the following dependency in your `pom.xml` to include the standard I/O classes:
 
 ```xml
 <dependency>
   <groupId>com.github.fracpete</groupId>
   <artifactId>princeton-java-stdlib</artifactId>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
 </dependency>
 ```
